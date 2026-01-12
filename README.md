@@ -27,74 +27,72 @@ I’ve worked on **production systems handling millions of records**, focusing o
 
 ## 💼 Core Expertise
 
-- Laravel application architecture & service-layer design  
-- RESTful API development & third-party integrations  
-- Webhooks & real-time event-driven systems  
-- Million-record imports using queues, chunking & batch processing  
-- Secure authentication & RBAC systems  
-- Database optimization (MySQL & PostgreSQL)  
-- Git & GitHub workflows (branching, PRs, collaboration)
+- 🚀 Laravel application architecture & service-layer design  
+- 🔌 RESTful API development & third-party integrations  
+- ⚓ Webhooks & real-time event-driven systems  
+- 📊 Million-record imports using queues, chunking & batch processing  
+- 🔐 Secure authentication & RBAC systems  
+- 🗄️ Database optimization (MySQL & PostgreSQL)  
+- 🤝 Git & GitHub workflows (branching, PRs, collaboration)
 
 ---
 
 ## 🧰 Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,postgres,git,github,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,postgres,git,github,postman,redis,docker,linux&perline=8" />
 </p>
 
 **Backend:** PHP, Laravel, CodeIgniter  
-**Frontend:** JavaScript, jQuery, HTML5, CSS3  
+**Frontend:** JavaScript, jQuery, HTML5, CSS3, Tailwind CSS  
 **Databases:** MySQL, PostgreSQL  
 **Version Control:** Git, GitHub  
-**Tools:** Jira, Postman  
+**Tools:** Jira, Postman, Vite  
 
 ---
 
 ## ⚙️ Advanced Backend Engineering
 
 - 🔹 Webhook-based real-time system design  
-- 🔹 Import pipelines processing **millions of records**  
-- 🔹 Queue & background job systems (Redis / DB)  
+- 🔹 Import pipelines processing **millions of records** - 🔹 Queue & background job systems (Redis / DB)  
 - 🔹 Database indexing, transactions & batch operations  
 
 ---
 
 ## 🚀 Featured Projects
 
-**▶ Timesheet Management System**  
-Enterprise-style role-based system with automated reporting & workflows.
+**▶ Timesheet Management System** Enterprise-style role-based system with automated reporting & workflows.
 
-**▶ Multilingual Website Platform**  
-Dynamic localization, SEO-friendly URLs, centralized translation engine.
+**▶ Multilingual Website Platform** Dynamic localization, SEO-friendly URLs, centralized translation engine.
 
-**▶ Tools Management System**  
-Inventory & tools tracking with RBAC and audit logs.
+**▶ Tools Management System** Inventory & tools tracking with RBAC and audit logs.
 
 ---
 
-## 🌐 Professional Profiles
+## 📊 GitHub Analytics
 
-- 💻 GitHub: https://github.com/RajGupta3xm  
-- 💼 LinkedIn: https://linkedin.com/in/raj-3xm  
-- 🧠 LeetCode: https://leetcode.com/u/Raj_Gupta5555  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajGupta3xm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajGupta3xm&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
 
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajGupta3xm&theme=tokyonight"/>
-
----
-
-## 📬 Contact
-
-📧 rajgupta3xm@gmail.com  
-📞 +91 9102325468  
-📍 Noida, India  
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajGupta3xm&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center"><b>“I build backend systems that scale with confidence.”</b></div>
+## 📬 Contact Details
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=120&section=footer"/>
+- 📧 **Email:** rajgupta3xm@gmail.com  
+- 📞 **Phone:** +91 9102325468  
+- 📍 **Location:** Noida, India  
+- 🌐 **Portfolio:** [github.com/RajGupta3xm](https://github.com/RajGupta3xm)
+
+---
+
+<div align="center">
+  <b>“I build backend systems that scale with confidence.”</b>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=120&section=footer"/>
+</div>
