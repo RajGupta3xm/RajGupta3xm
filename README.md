@@ -69,16 +69,29 @@ I’ve worked on **production systems handling millions of records**, focusing o
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajGupta3xm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajGupta3xm&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+## 📊 GitHub Performance Analytics
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RajGupta3xm&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajGupta3xm&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
+  
+  <br/>
+
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajGupta3xm&theme=tokyonight" width="100%" alt="Most Used Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajGupta3xm&theme=tokyonight" width="100%" alt="Overall Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajGupta3xm&theme=tokyonight" width="100%" alt="Coding Hours" />
+</div>
 
 ---
 
